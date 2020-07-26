@@ -32,7 +32,7 @@ def get_audio():
             
 text =  get_audio()   
 if "what is your name" in text:
-    Speak('My name is Clash Princess')
+    Speak('My name is Tommy-The Voice Assistant')
 if "what do you do" in text:
-    Speak('i play clash of clans')
+    Speak('i Answer Your Queries')
 
